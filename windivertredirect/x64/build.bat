@@ -1,0 +1,1 @@
+gcc windivertredirect.c -o windivertredirect.exe -lWs2_32 -L. -lwindivert
